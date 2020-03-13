@@ -10,6 +10,10 @@ Home Page:
 
 ![Home Page](demopics/p1.PNG)
 
+User Registration and Sign In:
+
+![Register & Sign In](demopics/p9.PNG)
+
 Different Shopping Categories & Pages:
 
 ![Hats](/demopics/p2.PNG)
